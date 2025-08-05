@@ -1,6 +1,5 @@
 # Go Crossword Renderer
 
-A Go application that renders crossword puzzles from CSV input, generating both filled and empty versions in New York Times style.
 
 ## Usage
 
@@ -16,7 +15,5 @@ go run main.go <csv_file> [numbers_csv] <output_filled> <output_empty>
 ## Examples
 
 ![Filled Crossword](output_example.png)
-*Filled crossword with answers*
 
 ![Empty Crossword](output_example_empty.png)  
-*Empty crossword puzzle for solving*
