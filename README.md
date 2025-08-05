@@ -14,6 +14,10 @@ go run main.go <csv_file> [numbers_csv] <output_filled> <output_empty>
 
 ## Examples
 
+### Filled
+
 ![Filled Crossword](output_example.png)
+### Not filled
+
 
 ![Empty Crossword](output_example_empty.png)  
